@@ -1,0 +1,30 @@
+.sidebar {
+  width: 20vw;
+  height: 100vh;
+  background-color: #000;
+
+  position: fixed;
+}
+.svg {
+  fill: #fff;
+  /* stroke: #fff; */
+  margin-top: 37px;
+  /* width: 75px; */
+  transform: scale(1.5);
+  cursor: pointer;
+}
+.log a {
+  color: #000;
+  text-decoration: none;
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.log {
+  width: 60%;
+  margin: 395px auto 0px;
+  background-color: white;
+  padding: 7px 0px;
+  border-radius: 10px;
+  cursor: pointer;
+}
